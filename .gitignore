@@ -1,0 +1,22 @@
+# 依赖
+node_modules/
+
+# 构建产物
+dist/
+tsconfig.tsbuildinfo
+
+# 测试输出（CI 会重新生成）
+test-report.json
+test-report-ui.json
+test-report-responsive.json
+test-report-images.json
+test-report-text.json
+shots/
+*.log
+
+# 编辑器 / 系统
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.local

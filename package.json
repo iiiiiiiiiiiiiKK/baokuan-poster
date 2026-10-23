@@ -1,0 +1,38 @@
+{
+  "name": "yijuhua-baokuan-peitu",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "一句话变成爆款配图 · 中文文字排版与高清导出的网页工作台",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc -b && vite build",
+    "preview": "vite preview",
+    "typecheck": "tsc --noEmit",
+    "verify:e2e": "node scripts/e2e.mjs",
+    "verify:ui": "node scripts/ui-check.mjs",
+    "verify:responsive": "node scripts/responsive-check.mjs",
+    "verify:images": "node scripts/analyze-images.mjs",
+    "verify:text": "node scripts/verify-text.mjs",
+    "verify:thumbs": "node scripts/probe-thumbs.mjs",
+    "verify:export-preview": "node scripts/probe-export-preview.mjs",
+    "verify": "npm run typecheck && npm run build && npm run verify:e2e && npm run verify:ui && npm run verify:responsive && npm run verify:images && npm run verify:text && npm run verify:thumbs && npm run verify:export-preview"
+  },
+  "dependencies": {
+    "@fontsource/inter": "^5.2.5",
+    "@fontsource/jetbrains-mono": "^5.2.5",
+    "@fontsource/playfair-display": "^5.2.5",
+    "lucide-react": "^0.469.0",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  },
+  "devDependencies": {
+    "@napi-rs/canvas": "^0.1.65",
+    "@types/react": "^19.1.0",
+    "@types/react-dom": "^19.1.0",
+    "@vitejs/plugin-react": "^4.3.4",
+    "puppeteer-core": "^24.43.1",
+    "typescript": "^5.7.3",
+    "vite": "^6.0.7"
+  }
+}
