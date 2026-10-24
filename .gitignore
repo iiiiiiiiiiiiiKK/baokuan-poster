@@ -6,11 +6,7 @@ dist/
 tsconfig.tsbuildinfo
 
 # 测试输出（CI 会重新生成）
-test-report.json
-test-report-ui.json
-test-report-responsive.json
-test-report-images.json
-test-report-text.json
+test-report*.json
 shots/
 *.log
 
