@@ -6,14 +6,14 @@
 
 一个纯前端的**中文文字排版工作台**：10 套各有独立排版逻辑的视觉模板 · Canvas 单一渲染源（预览 = 导出）· 中文断行与避头尾 · 桌面三栏 / 手机分步面板
 
-[![Deploy](https://img.shields.io/badge/demo-GitHub%20Pages-ff6a1a?style=flat-square)](https://321.market/baokuan-poster/)
+[![Deploy](https://img.shields.io/badge/demo-GitHub%20Pages-ff6a1a?style=flat-square)](https://iiiiiiiiiiiiiKK.github.io/baokuan-poster/)
 [![React](https://img.shields.io/badge/React-19-61dafb?style=flat-square&logo=react&logoColor=white)](https://react.dev)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.7-3178c6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
 [![Vite](https://img.shields.io/badge/Vite-6-646cff?style=flat-square&logo=vite&logoColor=white)](https://vite.dev)
 [![Tests](https://img.shields.io/badge/assertions-135%20passed-2ecc71?style=flat-square)](#-测试与验收)
 [![License](https://img.shields.io/badge/license-MIT-blue?style=flat-square)](#-许可)
 
-作者 [𝕏 @0xkillcoin](https://x.com/0xkillcoin)　·　[在线试用](https://321.market/baokuan-poster/)
+作者 [𝕏 @0xkillcoin](https://x.com/0xkillcoin)　·　[在线试用](https://iiiiiiiiiiiiiKK.github.io/baokuan-poster/)
 
 <img src="docs/assets/ui-desktop.webp" alt="工作台界面" width="880">
 
@@ -335,7 +335,7 @@ MIT License — 随意使用、修改、商用，保留版权声明即可。
 <br>
 <a href="https://x.com/0xkillcoin">𝕏 @0xkillcoin</a>
 　·　
-<a href="https://321.market/baokuan-poster/">在线试用</a>
+<a href="https://iiiiiiiiiiiiiKK.github.io/baokuan-poster/">在线试用</a>
 　·　
 <a href="./TEST-REPORT.md">完整测试报告</a>
 </div>
