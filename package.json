@@ -16,7 +16,7 @@
     "verify:text": "node scripts/verify-text.mjs",
     "verify:thumbs": "node scripts/probe-thumbs.mjs",
     "verify:export-preview": "node scripts/probe-export-preview.mjs",
-    "smoke:live": "node scripts/smoke-live.mjs https://321.market/baokuan-poster/",
+    "smoke:live": "node scripts/smoke-live.mjs https://iiiiiiiiiiiiiKK.github.io/baokuan-poster/",
     "docs:images": "node scripts/build-docs-images.mjs",
     "verify": "npm run typecheck && npm run build && npm run verify:e2e && npm run verify:ui && npm run verify:responsive && npm run verify:images && npm run verify:text && npm run verify:thumbs && npm run verify:export-preview"
   },
